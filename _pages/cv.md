@@ -34,12 +34,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*   **GIS Platforms:** ArcGIS Enterprise, QGIS, Google Earth Engine, ERDAS Imagine.
+*   **Web GIS:** ArcGIS Portal, Geocortex/VertiGIS, GeoServer, MapServer.
+*   **Programming:** Python, R, JavaScript, C#, Java, VBA.
+*   **Data Science:** SQL (MS SQL, PostgreSQL/PostGIS), Machine Learning, Statistics (SPSS).
 
 Publications
 ======
