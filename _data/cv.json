@@ -33,29 +33,38 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Newcastle, Australia",
+      "area": "PhD in Sustainable Resource Management",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Bangladesh University of Engineering and Technology",
+      "area": "M.S. in Urban and Regional Planning",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2006",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Dhaka",
+      "area": "M.Sc. in Geography & Environment",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "1998",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Dhaka",
+      "area": "B.Sc. in Geography & Environment",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "1997",
       "gpa": null,
       "courses": []
     }
